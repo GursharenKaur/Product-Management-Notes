@@ -38,28 +38,28 @@ These are products we don’t hold physically, but we interact with them through
 ##  Key Types of Digital Products
 
 ## Software Apps  
-➤ Tools or programs like MS Word, photo editors, or games.
+- Tools or programs like MS Word, photo editors, or games.
 
 ### Digital Platforms  
-➤ Big systems where people interact — like Amazon, Instagram, or YouTube.
+- Big systems where people interact — like Amazon, Instagram, or YouTube.
 
 ## Online Services  
-➤ Services you use over the internet like Gmail, Netflix, or Google Drive (also called SaaS).
+- Services you use over the internet like Gmail, Netflix, or Google Drive (also called SaaS).
 
 ---
 
 ##  Why Should You Understand This?
 
-### 🔹 Stay Ahead of Competition  
+### - Stay Ahead of Competition  
 If a company knows digital trends, it can make better products faster.
 
-### 🔹 Keep Customers Happy  
+### - Keep Customers Happy  
 When companies understand what users want, they can create smoother, easier, and more enjoyable experiences.
 
-### 🔹 Make Smarter Decisions  
+### - Make Smarter Decisions  
 Helps in planning better features, pricing, and marketing.
 
-### 🔹 Be Ready to Change  
+### - Be Ready to Change  
 Digital world changes fast — understanding the space helps companies adapt quickly.
 
 ---
