@@ -84,6 +84,7 @@ Agile allows **continuous feedback** and faster course correction.
 ## Cone of Uncertainty
 
 The **Cone of Uncertainty** shows how uncertainty decreases over time in a project.
+
 ![Cone of Uncertainity](cou.png)
 
 - At the start, uncertainty is high.
@@ -97,7 +98,7 @@ The **Cone of Uncertainty** shows how uncertainty decreases over time in a proje
 
 Waterfall works best when requirements are clear and stable.
 
-✅ **Use Waterfall for:**
+**Use Waterfall for:**
 
 - **New Products** with fixed initial requirements  
 - **Client Projects** with clearly defined, unchanging specs
@@ -108,7 +109,7 @@ Waterfall works best when requirements are clear and stable.
 
 Agile is ideal when flexibility and fast feedback are key.
 
-✅ **Use Agile for:**
+**Use Agile for:**
 
 - **Existing Products** requiring continuous updates  
 - **Complex Projects** where requirements may evolve
