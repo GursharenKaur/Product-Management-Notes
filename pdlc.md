@@ -1,3 +1,29 @@
+<style>
+  hr.section-break {
+    border: none;
+    height: 3px;
+    background: linear-gradient(to right, #4b6cb7, #182848);
+    margin: 40px 0;
+    border-radius: 2px;
+  }
+
+  hr.topic-divider {
+    border: none;
+    height: 1.5px;
+    background-color: #888;
+    margin: 30px 0;
+    opacity: 0.6;
+  }
+
+  hr.soft-line {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+    opacity: 0.5;
+  }
+</style>
+
 <h1>Product Development Life Cycle</h1>
 
 ![PDLC](Images/pdlc.png)
@@ -42,7 +68,7 @@
   <li>Clear planning and design help developers build exactly what’s needed.</li>
 </ul>
 
-<hr class="section-break" />
+<hr class="topic-divider" />
 
 <h2>4. Development</h2>
 <p>Where the actual building happens.</p>
@@ -72,7 +98,7 @@
   <li>Choose the right release approach (full launch or step-by-step rollout).</li>
 </ul>
 
-<hr class="soft-line" />
+<hr class="topic-divider" />
 
 <h2>7. Post-Launch and Maintenance</h2>
 <p>The product is out, but work continues.</p>
