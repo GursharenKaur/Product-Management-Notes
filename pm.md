@@ -114,3 +114,55 @@ A PM’s success depends on working well with others.
 # Flavours of a PM
 
 ![Flavours of a PM](Images/Flavours-of-a-pm.png)
+
+<hr class="section-break" />
+
+# HARD Skills in a Product Manager
+
+Hard skills are technical capabilities and domain knowledge that help Product Managers execute effectively in cross-functional environments.
+
+![Hard Skills in a PM](Images/hard-skills.png)
+
+## Market Research
+Conducting competitive analysis and market research to inform product strategy and identify opportunities.  
+
+<hr class="topic-divider">
+
+## Product Development Methodologies
+Understanding methodologies such as Agile, Waterfall, or Lean to guide product development. *(Very Important)*
+
+<hr class="topic-divider">
+
+## Product Development Lifecycle
+Managing the product lifecycle from ideation to launch, including phases like discovery, development, and scaling.  
+
+<hr class="topic-divider">
+
+## UI/UX Design
+Collaborating with design teams on user interface (UI) and user experience (UX) elements to ensure a cohesive and user-friendly product.  
+
+<hr class="topic-divider">
+
+## Data Analysis and Metrics
+Using analytics tools to track product metrics, assess performance, and make data-driven decisions.  
+
+<hr class="topic-divider">
+
+## Communication
+Crafting clear, concise, and compelling messages for different audiences, including technical teams, stakeholders, and customers.  
+
+<hr class="topic-divider">
+
+## Collaboration Tools
+Using collaboration tools like Slack, Microsoft Teams, and Confluence to facilitate communication and teamwork.  
+
+<hr class="topic-divider">
+
+## Presentation Skills
+Delivering engaging presentations to convey product visions, updates, and strategies to diverse audiences.  
+
+<hr class="section-break" />
+
+# SOFT Skills in a Product Manager
+
+![Soft Skills in a PM](Images/soft-skills.png)
