@@ -108,3 +108,133 @@
   <li>Fix bugs and release updates as needed.</li>
   <li>Use insights to begin the next cycle of improvement or ideation.</li>
 </ul>
+
+<hr class="section-break" />
+
+# Tools and Technologies
+
+## 🚀 Project Management Tools
+
+### **Jira**
+- Agile boards, workflows, and reports  
+- Ideal for software and sprint planning
+
+### **Trello**
+- Visual boards with cards and lists  
+- Great for flexible team collaboration
+
+### **Asana**
+- Task and timeline tracking  
+- Supports team planning and dependencies
+
+<hr class="topic-divider">
+
+## 📝 Documentation Tools
+
+### **Notion**
+- All-in-one docs, tasks, databases  
+- Ideal for personal and team wikis
+
+### **Confluence**
+- Team docs linked with Jira  
+- Used for plans, notes, and collaboration
+
+### **Google Docs**
+- Real-time document editing  
+- Great for shared writing and comments
+
+<hr class="topic-divider">
+
+## 💬 Communication & Collaboration Tools
+
+### **Slack**
+- Team chats via channels and DMs  
+- Integrates with tools like Google Drive, Jira
+
+### **Zoom**
+- Online meetings and screen sharing  
+- Supports webinars and recordings
+
+### **Google Meet**
+- Video calls with screen sharing  
+- Integrated with Google Calendar
+
+### **Microsoft Teams**
+- Chat, calls, and file sharing  
+- Works well with Microsoft 365 apps
+
+<hr class="topic-divider">
+
+## 🗺️ Roadmapping Tools
+
+### **Productboard**
+- Feature prioritization and feedback  
+- Visual roadmap for product planning
+
+### **ProductPlan**
+- Drag-and-drop roadmap builder  
+- Good for sharing product strategy
+
+### **Aha!**
+- Roadmaps with goals and ideas  
+- Connects strategy with development
+
+### **Roadmunk**
+- Timeline and swimlane roadmaps  
+- Easy to share and collaborate
+
+<hr class="topic-divider">
+
+## 📊 Analytics & User Feedback Tools
+
+### **Google Analytics**
+- Website traffic and user behavior  
+- Tracks goals and conversions
+
+### **Mixpanel**
+- User interaction and funnel analysis  
+- Good for mobile and web apps
+
+### **Amplitude**
+- Behavioral and retention insights  
+- Helps improve user engagement
+
+### **Smartlook**
+- Session replays and heatmaps  
+- Shows real user actions
+
+### **Hotjar**
+- Heatmaps and user feedback polls  
+- Understands behavior and drop-offs
+
+### **FullStory**
+- Session recordings and error tracking  
+- Helps fix UX issues
+
+### **SurveyMonkey**
+- Create and analyze surveys  
+- Useful for collecting user opinions
+
+### **Typeform**
+- Interactive forms and surveys  
+- Visually appealing and easy to use
+
+<hr class="topic-divider">
+
+## 🎨 Design & Prototyping Tools
+
+### **Sketch**
+- UI design tool for macOS  
+- Vector-based with plugin support
+
+### **Figma**
+- Collaborative design and prototyping  
+- Real-time team editing
+
+### **InVision**
+- Interactive mockups and feedback  
+- Useful for design handoffs
+
+### **Marvel**
+- Quick wireframing and prototyping  
+- Supports user testing
