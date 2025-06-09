@@ -82,5 +82,4 @@ A PM’s success depends on working well with others.
 ---
 
 # Flavours of a PM
-![Flavours of a PM](images/pm-radar-chart.png)
-
+![Flavours of a PM](Flavours-of-a-pm.png)
