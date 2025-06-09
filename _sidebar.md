@@ -2,4 +2,4 @@
 * [Introduction](intro.md)
 * [About Product Manager](pm.md)
 * [Product Development Lifecycle](pdlc.md)
- 
+* [Waterfall and Agile](agile-waterfall.md) 
