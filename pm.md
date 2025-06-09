@@ -1,8 +1,38 @@
+<style>
+  /* Major section break — bold and visible on white */
+  hr.section-break {
+    border: none;
+    height: 3px;
+    background: linear-gradient(to right, #4b6cb7, #182848); /* elegant blue gradient */
+    margin: 40px 0;
+    border-radius: 2px;
+  }
+
+  /* Regular topic divider — subtle but clear */
+  hr.topic-divider {
+    border: none;
+    height: 1.5px;
+    background-color: #888; /* medium gray */
+    margin: 30px 0;
+    opacity: 0.6;
+  }
+
+  /* Soft line — for intra-section breaks */
+  hr.soft-line {
+    border: none;
+    height: 1px;
+    background-color: #ccc; /* light gray */
+    margin: 20px 0;
+    opacity: 0.5;
+  }
+</style>
+
+
 # Role of a PRODUCT MANAGER
 
 A Product Manager (PM) acts as the nexus between different stakeholders, including customers, developers, designers, and business leaders, guiding a product from concept to market and beyond.
 
----
+<hr class="section-break" />
 
 ## Key Responsibilities of a Product Manager
 
@@ -11,7 +41,7 @@ A Product Manager (PM) acts as the nexus between different stakeholders, includi
 - Product Strategy  
 - Influencing People
 
----
+<hr class="topic-divider" />
 
 ## Product Execution  
 Turning product ideas into real, working products.
@@ -28,7 +58,7 @@ Turning product ideas into real, working products.
 - Ensure the product works well through testing  
 - Collect and apply user feedback to make the product better  
 
----
+<hr class="topic-divider" />
 
 ## Customer Insight  
 Knowing your users is key to building the right product.
@@ -45,7 +75,7 @@ Knowing your users is key to building the right product.
 - Collaborate with designers to build intuitive and clean interfaces  
 - Keep users at the center of all design choices  
 
----
+<hr class="topic-divider" />
 
 ## Product Strategy  
 Setting the long-term direction and plan for the product.
@@ -62,7 +92,7 @@ Setting the long-term direction and plan for the product.
 - Take responsibility for the product’s success and performance  
 - Continuously improve the product based on results and feedback  
 
----
+<hr class="topic-divider" />
 
 ## Influencing People  
 A PM’s success depends on working well with others.
@@ -79,7 +109,8 @@ A PM’s success depends on working well with others.
 - Share progress with senior leaders clearly and confidently  
 - Influence leadership decisions to support the product’s growth  
 
----
+<hr class="section-break" />
 
 # Flavours of a PM
+
 ![Flavours of a PM](Flavours-of-a-pm.png)
