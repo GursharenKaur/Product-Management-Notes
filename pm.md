@@ -78,3 +78,9 @@ A PM’s success depends on working well with others.
 ### Managing Up
 - Share progress with senior leaders clearly and confidently  
 - Influence leadership decisions to support the product’s growth  
+
+---
+
+# Flavours of a PM
+![Flavours of a PM](images/pm-radar-chart.png)
+
