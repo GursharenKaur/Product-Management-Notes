@@ -161,6 +161,5 @@ Select Target Segment
 
 Market and user research help you build what people **actually need**. Segmentation makes sure you're talking to the **right people** in the **right way**. Together, they make your product more valuable—and your strategy smarter.
 
-<hr class="section-break">
 
 
