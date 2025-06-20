@@ -73,7 +73,6 @@ User research is a part of market research that focuses only on your **users**�
 Airbnb used research to understand what users needed before launching. A major concern was safety. By addressing this in their platform design, they built trust—and their success followed.
 
 <hr class="section-break">
-<hr class="section-break">
 
 # Market Segmentation and Targeting
 
@@ -82,7 +81,9 @@ Airbnb used research to understand what users needed before launching. A major c
 Dividing the market into smaller groups based on common traits—so you can target them more effectively.
 
 <hr class="topic-divider">
+
 ![PDLC](Images/market-segmentation.png)
+
 ### Types of Market Segmentation
 
 **1. Geographic**
