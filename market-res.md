@@ -26,6 +26,9 @@
 
 # 📊 Different Market Research Methods
 
+![PDLC](Images/market-res.png)
+
+
 1. **Surveys**  
    - Structured questionnaires used to collect data from many people.  
    - Ideal for gathering **quantitative data** and spotting **trends and patterns**.
@@ -96,6 +99,8 @@ It helps us:
 <hr class="topic-divider">
 
 ### ✅ Importance of Quantitative Market Research
+
+![PDLC](Images/quantitative-res.png)
 
 - **📏 Measuring Market Size**  
   Understand the total addressable market to set realistic targets.
@@ -194,6 +199,8 @@ This approach is essential for:
 <hr class="topic-divider">
 
 ### ✅ Importance of Qualitative Market Research
+
+![PDLC](Images/qualitative-res.png)
 
 1. **Understanding Emotions and Stories**  
    - Reveals the emotions and stories behind actions.  
