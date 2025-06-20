@@ -4,4 +4,5 @@
 * [Waterfall and Agile](agile-waterfall.md) 
 * [Stakeholders](stakeholders.md) 
 * [Research & Segmentation](user-market.md) 
+* [Market Research](market-res.md) 
 
