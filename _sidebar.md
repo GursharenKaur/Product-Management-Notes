@@ -1,4 +1,3 @@
-* [Home](README.md)
 * [Introduction](intro.md)
 * [About Product Manager](pm.md)
 * [PDLC & Tools and Technologies Used](pdlc-tools.md)
