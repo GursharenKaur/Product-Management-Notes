@@ -24,7 +24,7 @@
   }
 </style>
 
-
+# Research
 ## What is Market Research?
 
 Market research means collecting and analyzing information about your market—like buyers, sellers, and industry trends—to make better business decisions.
