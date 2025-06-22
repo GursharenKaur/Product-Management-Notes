@@ -70,7 +70,7 @@ It’s a framework used to:
 
 ## Components of SWOT Analysis
 
-<hr class="topic-divider">
+![Swot](Images/swot.png)
 
 ### 🔹 Strengths (Internal)
 Advantages that help your product succeed.
@@ -118,7 +118,7 @@ Examples:
 
 ## Applying SWOT Analysis: Step-by-Step
 
-![Swot](Images/swot.png)
+![Process-of-swot](Images/swot2.png)
 
 <hr class="topic-divider">
 
