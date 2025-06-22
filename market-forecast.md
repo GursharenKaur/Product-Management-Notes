@@ -159,5 +159,3 @@ What if...
 ### Use Findings to Guide Strategy
 
 - Adjust product features, pricing, or expansion plans based on forecasts.
-
-<hr class="section-break">
