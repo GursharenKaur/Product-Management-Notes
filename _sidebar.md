@@ -7,4 +7,5 @@
 * [Market Research](market-res.md) 
 * [Competitive Analysis](analysis.md) 
 * [Market Forecasting](market-forcast.md) 
+* [SWOT Analysis](swot.md) 
 
