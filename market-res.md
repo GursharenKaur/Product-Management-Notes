@@ -24,7 +24,7 @@
   }
 </style>
 
-# 📊 Different Market Research Methods
+# Different Market Research Methods
 
 ![PDLC](Images/market-res.png)
 
@@ -73,15 +73,15 @@
 
 <hr class="section-break">
 
-## 🧠 Choosing the Right Research Method
+##  Choosing the Right Research Method
 
 Choose your method based on:
 
-- **🎯 Research Goal:** What do you need to find out?
-- **💰 Budget:** Can you afford incentives or paid tools?
-- **⏱ Timeline:** How quickly do you need results?
-- **👥 Target Audience:** What methods best suit their behavior?
-- **📈 Desired Data Type:** Do you need **quantitative (numbers)** or **qualitative (opinions)** data?
+- **Research Goal:** What do you need to find out?
+- **Budget:** Can you afford incentives or paid tools?
+- **Timeline:** How quickly do you need results?
+- **Target Audience:** What methods best suit their behavior?
+- **Desired Data Type:** Do you need **quantitative (numbers)** or **qualitative (opinions)** data?
 
 <hr class="section-break">
 
@@ -98,28 +98,28 @@ It helps us:
 
 <hr class="topic-divider">
 
-### ✅ Importance of Quantitative Market Research
+### Importance of Quantitative Market Research
 
 ![PDLC](Images/quantitative-res.png)
 
-- **📏 Measuring Market Size**  
+- **Measuring Market Size**  
   Understand the total addressable market to set realistic targets.
 
-- **📈 Identifying Trends**  
+- **Identifying Trends**  
   Spot growth or decline patterns over time.
 
-- **📊 Making Informed Decisions**  
+- **Making Informed Decisions**  
   Use reliable data, not assumptions.
 
-- **🔍 Validating Assumptions**  
+- **Validating Assumptions**  
   Test product or marketing ideas with actual numbers.
 
-- **📉 Measuring Performance**  
+- **Measuring Performance**  
   Track how campaigns or features are performing.
 
 <hr class="topic-divider">
 
-## 🔄 Process of Conducting Quantitative Market Research
+## Process of Conducting Quantitative Market Research
 
 ```mermaid
 graph TD
@@ -130,7 +130,7 @@ graph TD
 ```
 <hr class="topic-divider">
 
-## 🔧 Methods of Quantitative Market Research
+## Methods of Quantitative Market Research
 
 Several methods can be used to conduct quantitative market research:
 
@@ -156,7 +156,7 @@ Several methods can be used to conduct quantitative market research:
 
 <hr class="topic-divider">
 
-## 📊 Analyzing Quantitative Data
+## Analyzing Quantitative Data
 
 Analyzing quantitative data involves several key steps:
 
@@ -174,7 +174,7 @@ Analyzing quantitative data involves several key steps:
 
 <hr class="topic-divider">
 
-## 🧰 Tools for Quantitative Market Research
+## Tools for Quantitative Market Research
 
 These tools help conduct and analyze quantitative research efficiently:
 
@@ -185,7 +185,7 @@ These tools help conduct and analyze quantitative research efficiently:
 
 <hr class="section-break">
 
-# 💬 Qualitative Market Research
+# Qualitative Market Research?
 
 Qualitative market research helps uncover **deeper insights** that numbers alone can't explain.  
 While **quantitative research** shows what is happening, **qualitative research** reveals **why** it is happening.
@@ -198,7 +198,7 @@ This approach is essential for:
 
 <hr class="topic-divider">
 
-### ✅ Importance of Qualitative Market Research
+### Importance of Qualitative Market Research
 
 ![PDLC](Images/qualitative-res.png)
 
@@ -218,7 +218,7 @@ This approach is essential for:
 
 <hr class="topic-divider">
 
-### 🔄 The Qualitative Research Process
+### The Qualitative Research Process
 
 ```mermaid
 graph TD
@@ -258,7 +258,7 @@ graph TD
 
 <hr class="topic-divider">
 
-## 🧰 Tools for Qualitative Market Research
+## Tools for Qualitative Market Research
 
 Several tools help conduct and analyze qualitative research effectively:
 
