@@ -130,5 +130,3 @@ Examples:
 | **Weaknesses**    | Heavy reliance on ads, privacy concerns                                       |
 | **Opportunities** | Rise of AR/VR in social, expand to new countries                              |
 | **Threats**       | Data regulation changes, new rivals entering the space                        |
-
-<hr class="section-break">
