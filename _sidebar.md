@@ -6,6 +6,6 @@
 * [Research & Segmentation](user-market.md) 
 * [Market Research](market-res.md) 
 * [Competitive Analysis](analysis.md) 
-* [Market Forecasting](market-forcast.md) 
+* [Market Forecasting](market-forecast.md) 
 * [SWOT Analysis](swot.md) 
 
