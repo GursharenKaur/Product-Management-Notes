@@ -1,3 +1,29 @@
+<style>
+  hr.section-break {
+    border: none;
+    height: 3px;
+    background: linear-gradient(to right, #4b6cb7, #182848);
+    margin: 40px 0;
+    border-radius: 2px;
+  }
+
+  hr.topic-divider {
+    border: none;
+    height: 1.5px;
+    background-color: #888;
+    margin: 30px 0;
+    opacity: 0.6;
+  }
+
+  hr.soft-line {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+    opacity: 0.5;
+  }
+</style>
+
 # Trend Analysis and Market Forecasting
 
 <hr class="section-break">
