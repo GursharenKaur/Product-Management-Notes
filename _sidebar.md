@@ -5,4 +5,6 @@
 * [Stakeholders](stakeholders.md) 
 * [Research & Segmentation](user-market.md) 
 * [Market Research](market-res.md) 
+* [Competitive Analysis](analysis.md) 
+* [Market Forecasting](market-forcast.md) 
 
