@@ -11,5 +11,4 @@
 * [Persona and Empathy Map](persona-empathy.md) 
 * [Oppurtunity Solution Tree](ost.md) 
 * [Prototype & Assumption Testing](prototype.md) 
-* [MVP](mvp.md) 
-
+* [MVP](mvp.md)
