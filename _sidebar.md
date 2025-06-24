@@ -10,4 +10,5 @@
 * [SWOT Analysis](swot.md) 
 * [Persona and Empathy Map](persona-empathy.md) 
 * [Oppurtunity Solution Tree](ost.md) 
+* [Prototype & Assumption Testing](prototype.md) 
 
