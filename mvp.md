@@ -6,7 +6,7 @@
     margin: 40px 0;
     border-radius: 2px;
   }
-
+  
   hr.topic-divider {
     border: none;
     height: 1.5px;
