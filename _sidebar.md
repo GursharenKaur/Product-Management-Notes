@@ -9,4 +9,5 @@
 * [Market Forecasting](market-forecast.md) 
 * [SWOT Analysis](swot.md) 
 * [Persona and Empathy Map](persona-empathy.md) 
+* [Oppurtunity Solution Tree](ost.md) 
 
