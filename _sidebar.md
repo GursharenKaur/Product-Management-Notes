@@ -13,3 +13,5 @@
 * [Prototype & Assumption Testing](prototype.md) 
 * [MVP](mvp.md)
 * [Design & Communication](design.md)
+* [Making Tough Choices](prioritization.md)
+
