@@ -14,7 +14,7 @@
     margin: 30px 0;
     opacity: 0.6;
   }
-
+  
   hr.soft-line {
     border: none;
     height: 1px;
