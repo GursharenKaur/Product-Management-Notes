@@ -14,4 +14,5 @@
 * [MVP](mvp.md)
 * [Design & Communication](design.md)
 * [Making Tough Choices](prioritization.md)
+* [PRD](prd.md)
 
