@@ -16,4 +16,5 @@
 * [Making Tough Choices](prioritization.md)
 * [PRD](prd.md)
 * [Essential Tools](tools.md)
+* [Lean Product Development](lpd.md)
 
