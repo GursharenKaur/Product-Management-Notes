@@ -257,3 +257,136 @@ Drives growth at the **Referral** stage by encouraging word-of-mouth marketing.
   Indicates predictable income from subscriptions.
 
 <hr class="section-break">
+
+# The HEART Framework
+
+Developed by Google, the HEART Framework is used to measure user experience, especially for mature products that focus more on user satisfaction and loyalty than just growth.
+
+![HEART](Images/metrics.png)
+
+<hr class="topic-divider">
+
+## Happiness
+
+Measures how satisfied users are with your product.
+
+**Common Survey Tools:**
+
+- **Net Promoter Score (NPS):** Measures how likely users are to recommend your product to others.
+- **Customer Satisfaction Score (CSAT):** Reflects how happy users are with their overall experience.
+
+<hr class="topic-divider">
+
+## Engagement
+
+Looks at how deeply users interact with your product.
+
+**Common Metrics:**
+
+- **Actions Taken:** Number of key actions (clicks, uploads, etc.) per session.
+- **Session Length:** Time users stay active in a session.
+
+<hr class="topic-divider">
+
+## Adoption
+
+Tracks how many new users (or existing users) start using a new feature or product version.
+
+**Metrics to Monitor:**
+
+- **Adoption Rate:** Percentage of users trying the new feature.
+- **Feature Engagement:** Frequency and depth of use of the new feature.
+
+<hr class="topic-divider">
+
+## Retention
+
+Measures how often users return to your product over time.
+
+**Retention Metrics:**
+
+- **Cohort Analysis:** Understand behavior of specific user groups over time.
+- **Return Rate:** Frequency with which users come back after initial use.
+
+<hr class="topic-divider">
+
+## Task Success
+
+Assesses how easily and effectively users can complete key tasks.
+
+**Indicators:**
+
+- **Completion Rate:** Percentage of users successfully completing tasks.
+- **Error Rate:** How often users fail or encounter issues during tasks.
+
+<hr class="topic-divider">
+
+## HEART Dimensions Recap
+
+- **Happiness**
+- **Engagement**
+- **Adoption**
+- **Retention**
+- **Task Success**
+
+<hr class="section-break">
+
+# When to Use AARRR vs. HEART
+
+Choosing between the AARRR and HEART frameworks depends on your product's stage and strategic goals.
+
+<hr class="topic-divider">
+
+## New Products: Use AARRR
+
+The AARRR framework is ideal for early-stage products focused on **growth and traction**.
+
+### Key Use Cases:
+- Tracking how users **discover**, **start using**, and **stick with** the product
+- Identifying and optimizing for user and revenue growth
+
+### Focus Areas:
+- **Acquisition** – How users find your product
+- **Activation** – How quickly they start using it
+- **Retention** – Whether they return
+- **Revenue** – Whether they’re willing to pay
+- **Referral** – Whether they invite others
+
+**AARRR** helps guide early decisions in product development, marketing, and funnel optimization.
+
+<hr class="topic-divider">
+
+## Established Products: Use HEART
+
+The HEART framework is best suited for mature products aiming to **enhance user experience and loyalty**.
+
+### Key Use Cases:
+- Improving satisfaction and long-term user engagement
+- Evaluating and refining feature usability
+
+### Focus Areas:
+- **Happiness** – How satisfied users are
+- **Engagement** – Depth of interaction
+- **Adoption** – Use of new features
+- **Retention** – Continued usage over time
+- **Task Success** – Ease of completing key actions
+
+**HEART** is ideal when the product has a stable user base and the focus shifts to quality and retention.
+
+<hr class="topic-divider">
+
+## Combining AARRR and HEART
+
+Many successful teams use both frameworks together for a well-rounded view.
+
+### Why Combine?
+
+- **AARRR** tracks user growth across the funnel
+- **HEART** measures user experience and satisfaction
+- A combined approach helps teams balance:
+  - **User acquisition and revenue**
+  - **User happiness and long-term retention**
+
+### Especially Useful When:
+- Operating in competitive markets
+- Needing to align growth with product quality
