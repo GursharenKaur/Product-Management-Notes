@@ -17,4 +17,4 @@
 * [PRD](prd.md)
 * [Essential Tools](tools.md)
 * [Lean Product Development](lpd.md)
-
+* [Product Metrics](product_metrics.md)
