@@ -19,3 +19,6 @@
 * [Lean Product Development](lpd.md)
 * [Product Metrics](product_metrics.md)
 * [A/B Testing](ab.md)
+* [GTM and Launch](gtm.md)
+* [A/B Testing](ab.md)
+* [Promotion, Testing, Pricing](ptp.md)
