@@ -176,3 +176,89 @@ Include:
 - Run another round of testing to confirm fixes worked.
 
 <hr class="section-break">
+
+# Pricing Strategies
+
+<hr class="topic-divider">
+
+## Importance of Pricing
+
+Pricing isn’t just about putting a number on your product—it influences:
+
+- **Customer perception**
+- **Profitability**
+- **Market competitiveness**
+
+Getting it right means balancing:
+- What your product is worth
+- What customers will pay
+- What your business needs to succeed
+
+<hr class="topic-divider">
+
+## Key Considerations in Pricing
+
+![Pricing1](Images/pricing1.png)
+
+### • Customer Perception
+- Price should reflect how users perceive your product’s value.
+- High-quality products can justify higher prices.
+
+### • Product Positioning
+- Your brand's positioning impacts pricing.
+- Premium products = premium pricing.
+- Budget products = affordable pricing.
+
+### • Profitability
+- Price must cover production, marketing, and support costs.
+- Too low = losses; too high = fewer customers.
+
+### • Revenue Generation
+- Aim for long-term growth, not just one-time profits.
+- Sustainable pricing supports consistent income.
+
+<hr class="topic-divider">
+
+## Common Pricing Strategies
+
+![Pricing2](Images/pricing2.png)
+
+### 1. Cost-Plus Pricing
+- **What it is**: Add a fixed markup to your production cost.
+- **Pros**: Simple, ensures profit margin.
+- **Best when**: Costs are stable, and competition is minimal.
+
+---
+
+### 2. Value-Based Pricing
+- **What it is**: Price based on the product’s value to customers.
+- **Pros**: Focuses on customer needs and perceived benefits.
+- **Best when**: Your product is unique or solves major problems.
+
+---
+
+### 3. Competitive Pricing
+- **What it is**: Align pricing with what competitors charge.
+- **Pros**: Keeps you relevant in crowded markets.
+- **Best when**: Products are similar and markets are saturated.
+
+---
+
+### 4. Penetration Pricing
+- **What it is**: Start low to attract users, then raise prices.
+- **Pros**: Builds user base quickly.
+- **Best when**: Entering a new or competitive market.
+
+---
+
+### 5. Price Skimming
+- **What it is**: Launch high, lower later.
+- **Pros**: Captures early adopters at premium prices.
+- **Best when**: Launching innovative or first-of-its-kind products.
+
+---
+
+### 6. Psychological Pricing
+- **What it is**: Use price cues to influence perception (e.g., ₹99 vs ₹100).
+- **Pros**: Feels more affordable to customers.
+- **Best when**: Competing in retail or consumer-driven markets.
