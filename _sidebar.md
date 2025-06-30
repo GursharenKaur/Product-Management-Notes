@@ -23,3 +23,4 @@
 * [Promotion, Testing, Pricing](ptp.md)
 * [Marketing Fundamentals](marketing.md)
 * [Product Launch](launch.md)
+* [CASE STUDY](case.md)
