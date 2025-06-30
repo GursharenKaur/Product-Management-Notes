@@ -21,3 +21,4 @@
 * [A/B Testing](ab.md)
 * [GTM and Launch](gtm.md)
 * [Promotion, Testing, Pricing](ptp.md)
+* [Marketing Fundamentals](marketing.md)
