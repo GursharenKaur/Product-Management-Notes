@@ -22,3 +22,4 @@
 * [GTM and Launch](gtm.md)
 * [Promotion, Testing, Pricing](ptp.md)
 * [Marketing Fundamentals](marketing.md)
+* [Product Launch](launch.md)
