@@ -24,4 +24,7 @@
 * [Marketing Fundamentals](marketing.md)
 * [Product Launch](launch.md)
 * [CASE STUDY](case.md)
-* [Strategy, Vision, Roadmap](ps.md)
+* [Product Strategy Pyramid](psp.md)
+* [Product Strategy](ps.md)
+* [Product Vision](pv.md)
+* [Roadmap](roadmap.md)
