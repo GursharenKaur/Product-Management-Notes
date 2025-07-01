@@ -129,4 +129,3 @@ Product roadmaps vary based on planning style, team structure, and product matur
 - **Aha!**: Strategic planning and stakeholder communication.
 - **Jira**: Useful for Agile teams to manage sprints, backlogs, and integrated roadmaps.
 
-<hr class="section-break">
