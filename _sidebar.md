@@ -24,3 +24,4 @@
 * [Marketing Fundamentals](marketing.md)
 * [Product Launch](launch.md)
 * [CASE STUDY](case.md)
+* [Strategy, Vision, Roadmap](ps.md)
