@@ -25,6 +25,6 @@
 * [Product Launch](launch.md)
 * [CASE STUDY](case.md)
 * [Product Strategy Pyramid](psp.md)
-* [Product Strategy](ps.md)
 * [Product Vision](pv.md)
+* [Product Strategy](ps.md)
 * [Roadmap](roadmap.md)
