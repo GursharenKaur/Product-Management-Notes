@@ -32,3 +32,4 @@
 * [Scalability](scale.md)
 * [Product Leader](leader.md)
 * [Ethical Considerations](ec.md)
+* [B2B v/s B2C](b2b.md)
